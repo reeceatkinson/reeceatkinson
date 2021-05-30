@@ -2,7 +2,7 @@
 Thanks for taking a peak!
 --->
 
-- 👋 Hi, I’m @cParkDevelopers
+- 👋 Hi, I’m @reeceatkinson
 - 👀 I’m interested in HTML and JavaScript
 - 🌱 I am currently building my first productivity SaaS platform
 - ✉ atkinson@croftonmail.onmicrosoft.com

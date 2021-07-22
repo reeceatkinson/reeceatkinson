@@ -6,7 +6,7 @@ Thanks for taking a peak!
 - 👀 I’m interested in HTML and JavaScript
 - 🌱 I am currently building my first productivity SaaS platform
 
-![image](https://user-images.githubusercontent.com/72761244/126676124-ae2294c0-1454-4647-b860-8a9ff672e2b9.png)
+![image](https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp)
  
 
 <!---

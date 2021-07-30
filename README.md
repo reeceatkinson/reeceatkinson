@@ -3,8 +3,10 @@ Thanks for taking a peak!
 --->
 
 - 👋 Hi, I’m @reeceatkinson
+- 🧾 Working on a project @Crofton-Devs
 - 👀 I’m interested in HTML and JavaScript
 - 🌱 I am currently building my first productivity SaaS platform
+- 🐶 Lover of Dogs
 
 ![image](https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp)
  

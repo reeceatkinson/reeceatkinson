@@ -5,7 +5,7 @@ Thanks for taking a peak!
 - 👋 Hi, I’m @reeceatkinson
 - 👀 I’m interested in HTML and JavaScript
 - 🐶 Lover of Dogs
-- I also love swimming
+- 🌊 I also love swimming
 
 Here you will find various projects that I have been working on.
 Stay safe and keep on coding! 😷

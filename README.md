@@ -10,6 +10,8 @@ Thanks for taking a peak!
 Here you will find various projects that I have been working on.
 Stay safe and keep on coding! 😷
  
+ ![Reece's github stats](https://github-readme-stats.vercel.app/api?username=reeceatkinson)
+
 
 <!---
 cParkDevelopers/cParkDevelopers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

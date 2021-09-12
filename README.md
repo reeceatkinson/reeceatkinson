@@ -13,6 +13,8 @@ Stay safe and keep on coding! 😷
  ![@reeceatkinson user count](https://komarev.com/ghpvc/?username=reeceatkinson&color=blue)
  
  ![Reece's github stats](https://github-readme-stats.vercel.app/api?username=reeceatkinson&count_private=true&show_icons=true&theme=prussian)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reeceatkinson&layout=compact)]
+
 
 
 <!---

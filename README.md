@@ -8,7 +8,7 @@ Thanks for taking a peak!
 - 👀 I’m interested in **HTML and JavaScript**
 - 🐶 Lover of **Dogs**
 - 🌊 I also love **swimming**
-- 📔 Currently Reading: **This Is How They Tell Me the World Ends by Nicole Perlroth**
+- 📔 Currently Reading: **You are a champion by Marcus Rashford**
 
 Here you will find various projects that I have been working on.
 **Stay safe and keep on coding! 😷**

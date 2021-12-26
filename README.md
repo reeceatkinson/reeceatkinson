@@ -9,7 +9,7 @@ Thanks for taking a peak!
 - 👀 I’m interested in **HTML and JavaScript**
 - 🐶 Lover of **Dogs**
 - 🌊 I also love **swimming**
-- 📔 Currently Reading: **You are a champion by Marcus Rashford**
+- 📔 Currently Reading: **Micheal McIntyre: A Funny Life**
 
 Here you will find various projects that I have been working on.
 **Stay safe and keep on coding! 😷**
@@ -23,6 +23,8 @@ Here you will find various projects that I have been working on.
 
 ## Contributed to:
 https://www.codecademy.com/resources/docs/html/iframes
+https://www.codecademy.com/resources/docs/html/paragraphs
+
 <!---
 cParkDevelopers/cParkDevelopers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

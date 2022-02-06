@@ -3,7 +3,7 @@ Thanks for taking a peak!
 --->
 
 [![@reeceatkinson, I am a frontend developer student.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20am%20a%20frontend%20developer%20student.&title=%40reeceatkinson)](https://pimp-my-readme.webapp.io)
-[![HTML_JavaScript_CSS_NodeJS_React_Firebase_Netlify](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_JavaScript_CSS_NodeJS_React_Firebase_Netlify)](https://pimp-my-readme.webapp.io)
+
 
 - 👋 Hi, I’m **@reeceatkinson**
 -  I am taking the Harvard CS50 Course (Online EdX)

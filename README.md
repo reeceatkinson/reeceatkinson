@@ -14,13 +14,6 @@ Thanks for taking a peak!
 Here you will find various projects that I have been working on.
 **Stay safe and keep on coding! 😷**
 
-## My Projects
-- VS Code Theme - Electric Purple
-- [SOON] Electric Blue
-- GitHub Action - First Issue Greeter
-- Momentum - one single app that does everything for you to be productive **BETA**
-- Moment - find anything in less than one minute
-
 ## Contributed to:
 https://www.codecademy.com/resources/docs/html/iframes
 https://www.codecademy.com/resources/docs/html/paragraphs

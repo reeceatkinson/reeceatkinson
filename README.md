@@ -15,7 +15,7 @@ Here you will find various projects that I have been working on.
 **Stay safe and keep on coding! 😷**
 
 ## Contribution Graph
-[![Reece's github activity graph](https://activity-graph.herokuapp.com/graph?username=reeceatkinson)]
+[![Reece's github activity graph](https://activity-graph.herokuapp.com/graph?username=reeceatkinson&theme=react-dark)]
 
 ## Contributed to:
 https://www.codecademy.com/resources/docs/html/iframes

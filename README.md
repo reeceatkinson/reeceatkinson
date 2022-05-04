@@ -12,5 +12,15 @@ You can also check out my website @ reeceatkinson.com
 - 🐶 Lover of **dogs**
 - 👨‍🎓 I am a **student**
 - 👨‍💻 Eat, Sleep, Code.
-Want to know more? Go to reeceatkinson.com
+
+Want to know more? Go to **reeceatkinson.com**
+
+## What I'm Working On...
+Take a deep breath.
+
+- Course on Bootstrap
+- A CSS Library called **PureUI**
+- My Website **(reeceatkinson.com)**
+- A **ClickUp API** Quickstart
+- MakerAI (@MakerAI)
 

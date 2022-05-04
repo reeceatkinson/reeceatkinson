@@ -6,7 +6,11 @@ You can also check out my website @ reeceatkinson.com
 
 # Hi I'm Reece Atkinson 👋
 
+
+## Rapid About Me
 - 🧪 I love to make great **user experiences and UI's**
 - 🐶 Lover of **dogs**
 - 👨‍🎓 I am a **student**
 - 👨‍💻 Eat, Sleep, Code.
+Want to know more? Go to reeceatkinson.com
+

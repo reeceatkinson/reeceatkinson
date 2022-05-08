@@ -46,5 +46,3 @@ I love to make great user experiences through quality design and quick performan
 <a href="http://www.github.com/reeceatkinson"><img src="https://github-readme-stats.vercel.app/api?username=reeceatkinson&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="reeceatkinson's GitHub stats" /></a>
 
 <a href="http://www.github.com/reeceatkinson"><img src="https://activity-graph.herokuapp.com/graph?username=reeceatkinson&bg_color=ffffff&color=3382ed&line=3382ed&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/reeceatkinson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeceatkinson&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

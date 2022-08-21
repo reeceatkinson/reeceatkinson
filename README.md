@@ -13,9 +13,9 @@ Frontend Developer
 I love to make great user experiences through quality design and quick performance.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [reeceatkinson.com](http://reeceatkinson.com)
+* 🖥️  See my portfolio at [reeceatkinson.com](https://reeceatkinson.com)
 * ✉️  You can contact me at [hello@reeceatkinson.com](mailto:hello@reeceatkinson.com)
-* 🚀  I'm currently working on [UpTeam](http://forms.clickup.com/36169079/f/12ftbq-2668/ZRNA60ZB4OEPWF98NH)
+* 🚀  I'm currently working on [UpMeet](https://upmeet.me)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  I am a lover of dogs

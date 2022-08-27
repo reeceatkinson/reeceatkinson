@@ -4,7 +4,7 @@ Got Feedback? Go to https://forms.clickup.com/36169079/f/12ftbq-2308/35KD2PCJ0JB
 You can also check out my website @ reeceatkinson.com
 --->
 
-Hi 👋 My name is Reece Atkinson
+Hey 👋 My name is Reece Atkinson
 ===============================
 
 Frontend Developer

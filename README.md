@@ -1,7 +1,7 @@
 ## Hi there! 👋
 I'm Reece, a frontend web developer from England 🇬🇧.
 
-🧭 Founder of 🎥 upmeet.me and ⚡ shortenai.web.app
+🧭 Founder of upmeet.me and shortenai.web.app
 
 ## Skills
 - 👨‍💻 CSS, JavaScript
